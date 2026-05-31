@@ -1,0 +1,1002 @@
+[
+  {
+    "input_text": "I just can't log into my dashboard, it keeps giving me a 500 error. I need to file my report!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "How do I adjust the automatic shipment frequency for my subscription package?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Can you explain the difference between the 'Basic' and 'Professional' service tiers?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I was charged $49.99 today, but I thought my payment plan was paused. What is this for?",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "What is your business hours for tech support? I'm calling from a different time zone.",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "The app crashes every time I try to upload a photo. It's completely unusable.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Do I need a separate license key if I use this software on multiple machines?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "My invoice for March seems to include usage fees from a service I never signed up for.",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Is there a way to download my data history in a CSV format, or is it locked inside the portal?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I am locked out of my account and I have a major deadline in an hour. Help!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Where can I find information about international shipping costs and regulations?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "Why did my annual discount suddenly disappear from my renewal quote?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Every time I reset my password, the email verification link expires too fast. This is frustrating.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Could you tell me the compatibility requirements for connecting this module to older hardware?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I think you overcharged me. I only used it for 15 hours, not the 20 hours listed here.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "What materials are used to construct the main housing unit?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "The system keeps timing out right when I submit the payment. Please help me get this paid.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "If I cancel now, will I lose the data I've accumulated over the last six months?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Is there a manual I can look at that walks through setting up the advanced filtering options?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "The 'Save' button isn't doing anything on the form, and I can't submit my profile details.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What is the earliest I can pay my outstanding balance without incurring late fees?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Are there any pending feature rollouts planned for the next quarter?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I keep getting an 'access denied' error when I try to view my receipts from last year.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "How do I revert to the previous dashboard layout? The new one is confusing.",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I am being charged quarterly, but I signed up for yearly billing. This is unacceptable!",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "The camera feed seems distorted and won't connect properly to my main router.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What documents do I need to provide to verify my identity for the account upgrade?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Can you recommend a comparable product that is more energy efficient?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I lost access to my account because I changed my phone number and can't verify it anywhere.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Do you offer any promotional discounts for customers who have been with you for over five years?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What is the maximum number of files I can upload per month?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "My printer keeps showing an error code E-47. I need to print these forms by the end of the day!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Is there a way to export all my past chat transcripts from the system?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What is the tax rate applied to international purchases?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The screen is black and won't turn on, even after a hard reset. I can't use the device.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Can I get a detailed breakdown of the usage charges for last quarter?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "How far can I stretch this service if I pause it for three months?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I'm receiving an email saying my account is suspended, but I haven't missed any payments!",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "The latest update broke the data export function. It used to work fine.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What are the warranty limitations for the industrial-grade components?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I was supposed to receive a discount coupon for my loyalty, why wasn't it applied to this invoice?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I keep seeing pop-ups asking me to re-verify my credentials. Is there a glitch?",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Does this product require any specialized installation tools or wiring?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I need immediate help, I cannot access the required financial reports for a compliance deadline!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What happens to my accumulated credits if I switch payment methods?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Tell me more about your tiered enterprise solutions.",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "My payment declined, and I need to pay right now to keep my service active!",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "The connection keeps dropping every few minutes. It's interfering with my work call.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Are there different payment options available, like bank transfer instead of credit card?",
+    "intent": "billing_query",
+    "priority": "low"
+  },
+  {
+    "input_text": "How do I reset the geographical location services within the application?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I suspect there's a bug in the reporting tool; the numbers don't match the source data.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "When is the next cycle renewal payment scheduled?",
+    "intent": "billing_query",
+    "priority": "low"
+  },
+  {
+    "input_text": "What is the optimal operating temperature range for this unit?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I can't download the updated manual. The link keeps giving me a '404' error.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I was charged setup fees, but the sales representative promised those were waived.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "If I upgrade my plan, will I lose my custom settings and saved work?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What are your standard restocking policies for opened items?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I need urgent help! I can't process payments for my clients right now!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Why is the billing cycle starting on the 15th instead of the 1st?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Does your service work with third-party accounting software like QuickBooks?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The widget isn't recognizing my latest model phone. Is it compatible?",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What are the penalties for paying late, and can I avoid them?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Where can I view the historical price changes for this feature?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "My account suddenly has a 'Suspended' status, and I need access immediately.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "I received an invoice for a consulting service I never authorized.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "How do I customize the dashboard widgets to show different metrics?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Could you confirm if the service requires an annual commitment?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I keep getting an authentication failure message when trying to log in using SSO.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Can I talk to a human about an account adjustment? I feel the charges are incorrect.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "What specific certifications do your employees hold regarding data security?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "The software crashed when I tried to generate a large dataset report.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Is there a way to pay off my balance in three separate interest-free installments?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What is the typical turnaround time for customer service replies outside of business hours?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I cannot retrieve my data from before the service upgrade. Where is it stored?",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Please confirm if the total cost includes VAT for my location.",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What is the recommended refresh rate for optimal viewing experience?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "My user permissions seem wrong; I can't edit the fields I used to.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "If I switch providers, are there any early termination fees I should know about?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "How do I set up two-factor authentication on a secondary device?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The widget display is intermittent; sometimes it flickers and sometimes it's blank.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "I need to update my billing address, but the online form keeps rejecting the zip code.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "Can you send me a brochure detailing all the commercial model features?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I'm totally locked out. The system says my credentials are wrong, but I know they are correct.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What are the payment deadlines for discounted service packages?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "How long does it take for a refund to actually appear on my statement?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Are there any alternative data sources I can connect to your system?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I need a report on my usage from the last two quarters, but the filtering options are completely grayed out.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Is there a physical hardware requirement for connecting this advanced peripheral?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I see a $15 fee labeled 'Maintenance Adjustment'. What exactly does this cover?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The entire payment portal is unresponsive and I am trying to settle a debt before the grace period ends!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What is the projected lifespan of the unit under continuous use?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Why was my automatic renewal charge processed when I explicitly submitted a cancellation request?",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "I keep getting a pop-up asking me to validate my email address, even though I just checked it.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "How can I customize the color scheme or theme of the user interface?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "The connection keeps timing out right after I upload large files. I am losing hours of work!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Can I change my billing cycle to start on the first day of the month?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Do you provide any free training webinars or documentation on using the advanced features?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I think there's a discrepancy in my usage minutes. I definitely didn't use the service that much.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "My two-factor authentication code isn't appearing on my registered phone number.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What is the required minimum bandwidth for this system to run smoothly?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "If I combine my services, will I receive a group discount that wasn't offered initially?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "How do I properly uninstall this product without losing my saved configurations?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I can't generate any reports whatsoever. The system just throws an 'Authorization Required' error.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Will payment made via cryptocurrency be accepted by your payment processor?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Where can I find the full legal terms regarding data retention and disposal?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The cursor disappears intermittently when I am trying to navigate the main dashboard.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Can I see the itemized breakdown of the yearly service fee vs. monthly installments?",
+    "intent": "billing_query",
+    "priority": "low"
+  },
+  {
+    "input_text": "What is the warranty procedure if the unit fails due to external electrical surge?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I need immediate account access. I have missed a critical submission deadline!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Who should I speak to about amending the service contract terms?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What is the maximum file size supported for single uploads?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The module keeps showing a vague error message: 'System Fault'. It gives no details.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Could you provide documentation on integrating this API with Salesforce?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Are there any options for a payment deferral plan if my company's funding is delayed?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I keep getting prompted to accept cookies, even after clearing my browser data.",
+    "intent": "technical_support",
+    "priority": "low"
+  },
+  {
+    "input_text": "The dashboard metrics are all displaying zeros, even though I know I generated data today.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "When would I need to pay the next minimum balance?",
+    "intent": "billing_query",
+    "priority": "low"
+  },
+  {
+    "input_text": "How do I ensure that my data remains compliant with GDPR regulations?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The system froze completely while processing a payment batch. I must finish this today!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Do I need to pay usage fees on top of the standard monthly subscription fee?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "My system is displaying random characters and won't process any input. I need this fixed immediately!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "I was charged for an enterprise license, but I only purchased a small team package. Can you review this?",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "What is the average processing time for large data sets using your premium tier?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I am entirely locked out. I need emergency password recovery right now, I have an audit deadline.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Please clarify if the annual maintenance fee includes necessary software updates for 2025.",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Could you explain how the compatibility of this model changes if I operate it in a high-humidity environment?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The widget keeps freezing when I try to edit client profiles. This is a constant interruption.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I noticed a small usage charge that doesn't correspond to any service I remember signing up for.",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What are the necessary steps for integrating this service with our legacy CRM system?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "My profile is showing 'inactive' status, but I haven't done anything wrong and I need access.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "If I pay by bank wire, is there any associated transfer fee I need to account for?",
+    "intent": "billing_query",
+    "priority": "low"
+  },
+  {
+    "input_text": "How do I optimize the settings for low-bandwidth connectivity without losing quality?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The reporting function returns 'Unknown Error Code: 77D'. I need assistance!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Are there any options to reduce my monthly commitment if my business scope shrinks?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What is the typical response time for hardware replacement under warranty?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I can't verify my identity because the system keeps rejecting my updated passport photo.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I feel I was overcharged for the premium add-on; the salesperson told me it was complimentary.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "Could you suggest alternative product lines that handle large-scale logistics tracking?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "The entire application is unreachable. I am completely unable to perform my job!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "I cannot log into my account, and the system keeps saying 'Invalid Credentials.' I need access immediately!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Where is my refund from the canceled subscription? I was supposed to see the money back by today.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "My internet connection is completely down, and I have a critical presentation in an hour. What's wrong?",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Why was I charged for premium features when I downgraded last month? This is incorrect.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "How do I bypass the two-factor authentication screen if I don't have my phone?",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What are the compatibility requirements for this model with older software versions?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Can you explain the difference between the Basic and Professional plans regarding data storage limits?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I need to know the process for changing the primary account holder's billing information.",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Does this service require a contract, or can I pay month-to-month?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I just need to check the usage limits for my current cycle, nothing urgent.",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What hours are your customer support team available this weekend?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "Tell me more about the new widget features that just launched.",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "Could you please send me a copy of my invoice from March?",
+    "intent": "billing_query",
+    "priority": "low"
+  },
+  {
+    "input_text": "How do I reset my password using my registered email address?",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "My account keeps timing out right when I try to save changes. It's so frustrating!",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I think there might be an overcharge on this month's statement. Can you verify it?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Is there a physical retail location near the downtown area I can visit?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I accidentally deleted my work files. Is there any way to recover them?",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "If I cancel, what is the final bill estimate, including any termination fees?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What are the materials used to construct the outer casing?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I cannot download the required update file. The error code is 500.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What payment methods do you accept? Do you take Apple Pay?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Can I use this product if I have limited mobility?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "My widget is blinking red, and I don't know what it means. Help?",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What documentation is available for API integration?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I was quoted a different price online last week. Can you check that for me?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "How far in advance do I need to schedule a technician visit?",
+    "intent": "technical_support",
+    "priority": "low"
+  },
+  {
+    "input_text": "If I upgrade my plan, are there any early termination penalties?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Do you offer a free trial for new users?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "My credit card payment was rejected twice, but I know the funds are there.",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "What is the optimal operating temperature range for the device?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I am locked out of my device. It's an emergency, please assist.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What is the policy regarding returning opened merchandise?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "Why did my billing cycle seem to reset unexpectedly?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "The software crashes every time I try to export a large file.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What are the steps to calibrate the sensors?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Can you send me a general overview of the entire product line?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I see a charge labeled 'Service Fee.' What does that cover?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "How do I connect this to my existing smart home hub?",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What are the warranty limitations if I move internationally?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Can you confirm the payment due date for my next quarter?",
+    "intent": "billing_query",
+    "priority": "low"
+  },
+  {
+    "input_text": "I just need help finding the user manual for this model.",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "The device suddenly stopped responding after the last firmware update. It's unusable.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "I keep receiving suspicious emails asking for my login details. Is this a known scam?",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Are there any promotions running right now for first-time subscribers?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Could you elaborate on the difference between silk thread and synthetic fiber options?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "My account shows an incorrect zip code, please fix that for me.",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I feel like I'm being charged extra just for having two services, is there a bundle?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What is your return acceptance window for electronic items?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "I tried changing my password but I got a vague error message saying 'Something went wrong.' I'm stuck.",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Someone unauthorized charged my card for $50. I did not authorize this at all. What do I do?",
+    "intent": "billing_query",
+    "priority": "high"
+  },
+  {
+    "input_text": "Can I transfer my existing usage credits to a new account owner?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "What is the maximum number of user licenses I can purchase for a corporate team of 50?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "My entire dashboard is blank, and I can't see any data. Help me refresh my view!",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "Do you offer any temporary service suspension if I travel abroad for a month?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "How do I adjust the notification settings so I only get emails for critical alerts?",
+    "intent": "product_info",
+    "priority": "medium"
+  },
+  {
+    "input_text": "I need to talk to a human immediately about the service interruption. This is critical for my business.",
+    "intent": "technical_support",
+    "priority": "high"
+  },
+  {
+    "input_text": "What are your standard payment terms for corporate clients, and are there discounts for annual billing?",
+    "intent": "billing_query",
+    "priority": "medium"
+  },
+  {
+    "input_text": "Where is the closest authorized dealer that carries this specific model?",
+    "intent": "product_info",
+    "priority": "low"
+  },
+  {
+    "input_text": "The application is running incredibly slowly this afternoon. Can someone check the server status?",
+    "intent": "technical_support",
+    "priority": "medium"
+  },
+  {
+    "input_text": "If I upgrade next year, will my current base rate protect me from future price hikes?",
+    "intent": "billing_query",
+    "priority": "low"
+  }
+]
